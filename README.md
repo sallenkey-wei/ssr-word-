@@ -4,4 +4,3 @@ https://github.com/ToyoDAdoubi/doubi
 
 wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssrmu.sh && chmod +x ssrmu.sh && bash ssrmu.sh
 
-ss://Y2hhY2hhMjAtaWV0ZjpndWVzdDEyM0AzLjExMy4yNi43NDo4MDgx
